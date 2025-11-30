@@ -1,4 +1,4 @@
-BookCorner - Sistem Manajemen Buku
+**BookCorner - Sistem Manajemen Buku**
 
 Alasan tampilan user-friendly:
 - Pengelolaan buku yang simpel, mulai dari menambahkan, mengedit, hingga menghapus buku
